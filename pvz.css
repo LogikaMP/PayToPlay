@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    font-family: "Oswald", sans-serif;
+    background-color: #070760;
+    color: whitesmoke;
+}
+header{
+    text-align: center;
+    margin-bottom: 1%;
+}
+header img{
+    width: 60%;
+}
+nav{
+    width: 100%;
+    padding: 1%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom:2;
+}
+nav a{
+    text-decoration: none;
+    border: 4px groove whitesmoke;
+    color: whitesmoke;
+    border-radius: 10px;
+    background-color: #010132;
+    padding: 1%;
+}
+.my{
+    color: #010132;
+    background-color: whitesmoke;
+}
+main img{
+    width: 58%;
+    margin-left: 20%;
+}
+footer{
+    padding: 4%;
+    background-color: whitesmoke;
+    color: #070760;
+}
+footer h2{
+    text-align: center;
+}
+footer div{
+    display: flex;
+    justify-content: space-between;
+}
+.myname{
+    color: #010132;
+    font-style: italic;
+    font-weight: 900;
+}
+.img2{
+    width: 40%;
+    margin-left: 30%;
+}
+.img3{
+    width: 40%;
+    margin-left: 30%;
+}
