@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    font-family: "oswald", sans-serif;
+    font-size: 16px;
+    background-color: #070760;
+    color: whitesmoke;
+}
+
+header {
+    text-align: center;
+margin-bottom: 1%;
+}
+
+header img {
+    width: 50%;
+}
+
+nav {
+    width: 100%;
+    padding: 1%;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav a{
+    text-decoration: none;
+    border: 4px groove whitesmoke;
+    color: whitesmoke;
+    padding: 1%;
+    border-radius: 10px;
+    background-color: #010132;
+}
+
+.my {
+    color: #100132;
+    background-color: whitesmoke;
+}
+.img2 {
+    width: 60%;
+    margin-left: 20%;
+}
+footer div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.myname {
+    color: #010132;
+    font-style: italic;
+    font-weight: 900;
+}
+ .abaudno {
+    width: 25%;
+   margin-left: 37%;
+}
+.abaudno1 {
+    width: 25%;
+    margin-left: 37%;
+}
+
+.abaudno2 {
+    width: 25%;
+    margin-left: 37%;
+}
+.abaudno3 {
+    width: 25%;
+    margin-left: 37%;
+}
+.abaudno4 {
+    width: 25%;
+    margin-left: 37%;
+}
